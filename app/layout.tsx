@@ -8,7 +8,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://questforge-ai.openai.site'),
+  metadataBase: new URL('https://questforge-ai.contensaya.chatgpt.site'),
   title: 'QuestForge AI — Forge Your Next Quest',
   description: 'Transform ambitious goals into adaptive, burnout-resilient RPG quest lines.',
   openGraph: {
